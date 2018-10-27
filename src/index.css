@@ -1,0 +1,55 @@
+body {
+  background: url(http://chronicleillinois.com/wp-content/uploads/2018/02/gallery-1482256816-gettyimages-114847469.jpg);
+  padding: 20px;
+  margin: 0;
+}
+h1{
+	font-family:'Vivaldi';
+	font-size:100px;
+}
+
+ul, li {
+  font-family: 'Vivaldi';
+  font-size: 50px;
+}
+
+h2{
+	font-family:'Vivaldi';
+	font-size:60px;
+}
+
+p{
+	font-family: 'Vivaldi';
+	font-size:50px;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color: #111;
+  padding: 0;
+}
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color: #FFF;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
+
+.active {
+  background-color: #0099FF;
+}
